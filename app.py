@@ -13,8 +13,9 @@ st.image(img)
 st.caption("La reazione del borghese medio quando provi a prendergli le briciole di cornetto dal piatto al bar :broken_heart:")
 
 df=pd.DataFrame(
-    np.random.rand(31,6)
+    np.random.rand(20,2)
 )
+df
 
 #base plot stream e matplot
 x=[1,2,3,4,5]
