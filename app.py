@@ -27,5 +27,7 @@ st.pyplot(red)
 
 #radio, checkbox, audio, foto 
 
+st.radio(label=Si,index=0,label_visibility="visible")
+
 
 
